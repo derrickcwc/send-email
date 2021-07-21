@@ -11,5 +11,5 @@
 4. ```copy .env.example .env```
 5. ```php artisan key:generate```
 6. ```php artisan optimize:clear```
-7. ```run php artisan migrate``` (to create database tables)
+7. ```php artisan migrate``` (to create database tables)
 8. ```php artisan serve```(inside todo folder)
